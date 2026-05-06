@@ -1,4 +1,4 @@
-# remote_control
+# remote_control.php - Download Failed
 
 ---
 
@@ -6,41 +6,29 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `remote_control.php` |
-| **Total Size** | **15 parts** - **635.25 MB** |
-| **Status** | **Complete (100%)** |
-| **Password Protected** | **NO** |
+| **File** | `remote_control.php` |
+| **URL** | https://st14.pimpbunny.com/remote_control.php?time=1778105960&cv=e7e26ab58aca1b90f07b54630b5933c3&lr=0&cv2=8287c7a9b7dbeeec9dd88f8b34d4f255&file=%2Fvideos%2F404000%2F404365%2F404365_1080p.mp4&cv3=19974bb7e4dfe01537e901d4d068b3b2&cv4=7b15bde8fe995461604d79b5013cd345 |
+| **Date** | 2026-05-06 22:25:21 UTC |
+| **Status** | **FAILED** |
 
 ---
 
-## Download Links
+## Error Details
 
-| # | File | Link |
-|---|------|------|
-| 1 | `remote_control.7z.001` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.001) |
-| 2 | `remote_control.7z.002` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.002) |
-| 3 | `remote_control.7z.003` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.003) |
-| 4 | `remote_control.7z.004` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.004) |
-| 5 | `remote_control.7z.005` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.005) |
-| 6 | `remote_control.7z.006` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.006) |
-| 7 | `remote_control.7z.007` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.007) |
-| 8 | `remote_control.7z.008` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.008) |
-| 9 | `remote_control.7z.009` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.009) |
-| 10 | `remote_control.7z.010` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.010) |
-| 11 | `remote_control.7z.011` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.011) |
-| 12 | `remote_control.7z.012` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.012) |
-| 13 | `remote_control.7z.013` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.013) |
-| 14 | `remote_control.7z.014` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.014) |
-| 15 | `remote_control.7z.015` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.015) |
+```
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 403
+```
 
 ---
 
-## How to Extract
+## Possible Solutions
 
-1. **Download** all parts (e.g. `.7z.001`, `.7z.002`...)
-2. **Install** [7-Zip](https://www.7-zip.org/) (Windows/Linux) or [Keka](https://www.keka.io/) (Mac)
-3. **Right-click** the `.7z.001` file → Extract Here
-4. All parts combine automatically into the original file
+- Check if the URL is correct and accessible
+- The file may have been removed or moved
+- The server may require authentication
+- For SourceForge: Try using the direct download link
+- Some servers block automated downloads (403 Forbidden)
+- Try again later if it is a temporary server issue
 
 ---
 
