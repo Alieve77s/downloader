@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `remote_control.php` |
-| **Total Size** | **8 parts** - **345.87 MB** |
+| **Total Size** | **6 parts** - **237.02 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -23,8 +23,6 @@
 | 4 | `remote_control.7z.004` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.004) |
 | 5 | `remote_control.7z.005` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.005) |
 | 6 | `remote_control.7z.006` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.006) |
-| 7 | `remote_control.7z.007` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.007) |
-| 8 | `remote_control.7z.008` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.008) |
 
 ---
 
