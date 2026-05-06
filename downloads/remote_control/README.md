@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `remote_control.php` |
-| **Total Size** | **2 parts** - **58.67 MB** |
+| **Total Size** | **8 parts** - **345.87 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -19,6 +19,12 @@
 |---|------|------|
 | 1 | `remote_control.7z.001` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.001) |
 | 2 | `remote_control.7z.002` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.002) |
+| 3 | `remote_control.7z.003` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.003) |
+| 4 | `remote_control.7z.004` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.004) |
+| 5 | `remote_control.7z.005` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.005) |
+| 6 | `remote_control.7z.006` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.006) |
+| 7 | `remote_control.7z.007` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.007) |
+| 8 | `remote_control.7z.008` | [Download](https://github.com/Alieve77s/downloader/raw/main/downloads/remote_control/remote_control.7z.008) |
 
 ---
 
