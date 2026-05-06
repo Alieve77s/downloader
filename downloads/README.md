@@ -1,9 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [100MB](./100MB)
-- [_gamma_18143](./_gamma_18143)
-- [fu](./fu)
-- [remote_control](./remote_control)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
