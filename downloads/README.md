@@ -1,10 +1,7 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [group_downloads](./group_downloads)
+- [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 
 ---
 
